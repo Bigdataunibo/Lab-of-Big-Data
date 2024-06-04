@@ -4,11 +4,11 @@ This repository contains a Google Colab notebook related to Big Data, Green Comp
 
 ## Overview
 
-This notebook demonstrates the implementation and analysis of large language models (LLMs) for time series data within the context of green computing. The notebook includes the following key components:
+In this notebook, we analyzed a 3-year dataset of operational carbon footprints and applied linear regression and KNN models to predict monthly values. The notebook includes the following key components:
 
 - Installation and import of essential libraries.
 - Data preprocessing and visualization.
-- Application of LLMs for time series analysis.
+- Application of Linear Regression and KNN models.
 - Evaluation of model performance.
 - Discussion on the implications of green computing in the context of big data.
 
