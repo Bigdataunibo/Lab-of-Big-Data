@@ -1,6 +1,6 @@
 # Install and Import the Essential Libraries
 
-This repository contains a Google Colab notebook related to Big Data, Green Computing, and LLMs for Time Series.
+This repository contains a Google Colab notebook related to Big Data and Green Computing.
 
 ## Overview
 
